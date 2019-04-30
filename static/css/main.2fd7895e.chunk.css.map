@@ -1,1 +1,0 @@
-{"version":3,"sources":["/home/gabriel/Developpement/React/tetris_v2/src/app.css","main.2fd7895e.chunk.css"],"names":[],"mappings":"AAAA,OACC,sBAAA,CACA,iBCCD","file":"main.2fd7895e.chunk.css","sourcesContent":["canvas {\n\tborder: 10px solid white;\n\tborder-radius: 4px;\n}","canvas {\n\tborder: 10px solid white;\n\tborder-radius: 4px;\n}\n"]}
